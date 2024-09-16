@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Prismic + Next.js Minimal Starter
 
 Want to quickly get started building your own project with [Prismic][prismic] and [Next.js][nextjs]? This project includes basic configurations and nothing else. The project includes one Rich Text Slice, a homepage, and a dynamic page.
@@ -123,6 +122,3 @@ limitations under the License.
 [prismic-sign-up]: https://prismic.io/dashboard/signup
 [nextjs]: https://nextjs.org/
 [live-demo]: https://nextjs-starter-prismic-minimal.vercel.app/
-=======
-# fizzi-with-prismic
->>>>>>> 1ec18817d97deb36ed47189c7752c3ec09166a10
